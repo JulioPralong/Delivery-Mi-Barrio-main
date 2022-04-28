@@ -1,24 +1,28 @@
-# delivery-vue
+# 🍔 [Mi Barrio Delivery (URL)](https://delivery-6c0fd.web.app/) 
 
-## Project setup
-```
-npm install
-```
+## ¿Que es? 🤤
+Es una Progresive Web App de delivery, con interfaz tanto de usuario como de repartidor y restaurante. Con ruta protegida para las vistas de repartidor y restaurante.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## ¿Que tecnologias utiliza? 💻
+Esta desarrollada en Vue CLI, Node js, Firebase, CSS y Bootstrap
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## ¿Como puedo ver las paginas de restaurante y repartidor? 🤔
+Puede ingresar con el correo electronico y contraseñas dadas de ejemplo:
 
-### Lints and fixes files
+🍕 Restaurante: 
 ```
-npm run lint
+correo: AhoraSon13@MiBarrio.com.ar
+contraseña: passwordRestaurante
 ```
+Esta ingresa a la interfaz del restaurante **Ahorason13**
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**(La misma logica del nombre en el correo electronico aplica para todos los restaurantes, compartiendo contraseña todos)**
+
+🚴‍ Repartidor:
+```
+correo: nachoalmadarider@MiBarrio.com.ar
+contraseña: passwordRider
+```
+Esta ingresa a la interfaz del repartidor llamado **Ignacio Almada**
+
+
